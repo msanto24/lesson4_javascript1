@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 15th, 2018
 
 ### Student Name:  
-(First and Last Name)
+Michael Santomaso
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project we edited code for an exense calculate, which adds up your total expenses and shows the percentage of each subdivision.
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+ https://msanto24.github.io/lesson4_javascript1/.
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. How to create multiple variables and assign them each to their own textfield when the user enters a
+2. How to move local files to a repository without having to read the directions. 
+3. How to calculate a total value from variables as well as individual percentages. 
 
 
 
